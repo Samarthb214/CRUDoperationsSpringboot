@@ -2,7 +2,6 @@
 
 Below is the URL Link for this module. 
 
-https://springboot-crudoperations.herokuapp.com/
 
 Predefind Dataset :
 
